@@ -1,4 +1,4 @@
-name: r2s Lean版openwrt minimal 
+name: 自定义 r2s Lean版openwrt minimal 
 
 on:
   workflow_dispatch:
