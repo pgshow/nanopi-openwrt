@@ -1,11 +1,10 @@
 name: r2s Lean版openwrt minimal 
 
 on:
-  push:
+  workflow_dispatch:
     branches: [ master ]
     paths:
       - '.github/workflows/r2s_lean_minimal.yml'
-  workflow_dispatch:
 
 jobs:
 
